@@ -6,7 +6,7 @@ Tasks are loaded from a list in the code and shown on the page automatically. Ea
 
 When a user clicks on a task, a modal opens where the user can see the task details and make changes.
 
-This project helps practice working with the **DOM, anJavaScript functions**.
+This project helps practice working with the **DOM, and JavaScript functions**.
 
 ---
 
